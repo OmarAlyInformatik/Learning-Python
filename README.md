@@ -53,9 +53,7 @@ Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausfor
 │      ├── 📂 JavaScript
 │      └── 📂 Python
 │           ├── 📂 Fertig
-│           ├── 📂 Git & GitHub
 │           └── 📂 Üben
-│                ├── 📂 Probe
 │                └── 📂 Aktuell
 │                     ├── 📂 Kapitel_1
 │                     ├── 📂 Kapitel_2
