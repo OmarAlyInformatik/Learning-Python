@@ -1,6 +1,6 @@
-# 🚀 SoloLearn Practice & Gemini Challenges
+# 🚀 Learning Python
 
-Willkommen in meinem Lern-Repository! Hier vertiefe und festige ich mein Programmierwissen aus **SoloLearn**, indem ich mir von **Google Gemini** praxisnahe Aufgaben erstellen lasse und diese in **VS Code** löse.
+Willkommen in meinem Lern-Repository! Hier vertiefe und festige ich mein Programmierwissen aus **SoloLearn**, indem ich mir von **Gemini** praxisnahe Aufgaben erstellen lasse und diese in **VS Code** löse.
 
 ---
 
@@ -18,9 +18,9 @@ Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausfor
 ## 🔄 Mein Workflow
 
 1. **Konzept lernen:** Ein Modul/Thema auf SoloLearn durcharbeiten.
-2. **Gemini-Prompt:** Gemini bitten, aus den Lernzielen eine kleine Challenge für VS Code zu erstellen.
+2. **Prompt:** Aus den Lernzielen eine kleine Challenge für VS Code zu erstellen.
 3. **Coden:** Die Aufgabe eigenständig in VS Code lösen.
-4. **Code-Review:** Das Ergebnis von Gemini überprüfen lassen und bei Bedarf optimieren.
+4. **Code-Review:** Das Ergebnis von überprüfen lassen und bei Bedarf optimieren.
 5. **Git Commit:** Den gelösten Code hier im Repository hochladen.
 
 ---
@@ -36,35 +36,29 @@ Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausfor
 
 ## 📂 Ordnerstruktur
 ```
-📁 Dokumente
-│
-├── 📂 Coden
-│   ├─ 📂 Eigene Projekte
-│   ├─ 📂 Ungenutzt
-│   └─ 📂 Sprachen
-│      ├── 📂 Internet
-│      ├── 📂 C++
-│      ├── 📂 PHP
-│      ├── 📂 SQL
-│      ├── 📂 TypeScript
-│      ├── 📂 C
-│      ├── 📂 C#
-│      ├── 📂 Java
-│      ├── 📂 JavaScript
-│      └── 📂 Python
-│           ├── 📂 Fertig
-│           └── 📂 Üben
-│                └── 📂 Aktuell
-│                     ├── 📂 Kapitel_1
-│                     ├── 📂 Kapitel_2
-│                     ├── 📂 Kapitel_3
-│                     ├── 📂 Kapitel_4
-│                     ├── 📂 Kapitel_5
-│                     ├── 📂 Kapitel_6
-│                     ├── 📂 Kapitel_7
-│                     ├── 📂 Kapitel_8
-│                     ├── 📂 Kapitel_9
-│                     └── 📂 Kapitel_10
-│
-├── 📂 Schule
-└── 📂 Unterlagen
+📂 Coden
+ ├─ 📂 Eigene Projekte
+ ├─ 📂 Ungenutzt
+ └─ 📂 Sprachen
+     ├── 📂 Internet
+     ├── 📂 C++
+     ├── 📂 PHP
+     ├── 📂 SQL
+     ├── 📂 TypeScript
+     ├── 📂 C
+     ├── 📂 C#
+     ├── 📂 Java
+     ├── 📂 JavaScript
+     └── 📂 Python
+          ├── 📂 Fertig
+          └── 📂 Üben
+               ├── 📂 Kapitel_1
+               ├── 📂 Kapitel_2
+               ├── 📂 Kapitel_3
+               ├── 📂 Kapitel_4
+               ├── 📂 Kapitel_5
+               ├── 📂 Kapitel_6
+               ├── 📂 Kapitel_7
+               ├── 📂 Kapitel_8
+               ├── 📂 Kapitel_9
+               └── 📂 Kapitel_10
