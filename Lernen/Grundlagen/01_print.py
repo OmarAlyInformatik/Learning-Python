@@ -1,0 +1,5 @@
+print("\n")
+print("Omar")
+print("Python")
+print("Coding for Life!")
+print("\n")
