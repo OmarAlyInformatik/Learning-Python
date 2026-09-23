@@ -8,10 +8,11 @@ Willkommen in meinem Lern-Repository! Hier vertiefe und festige ich mein Program
 
 Anstatt Aufgaben nur direkt in der SoloLearn-App per Multiple-Choice oder Lückentext zu lösen, erstelle ich hier eigenen Code in einer echten Entwicklungsumgebung.
 
-Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausforderungen (*Challenges*) um. So lerne ich:
-* Echten Code in **VS Code** zu schreiben und zu testen
-* Mit KI als Tutor und Impulsgeber zu arbeiten
-* Git & GitHub für die Dokumentation meines Lernfortschritts zu nutzen
+Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausforderungen (_Challenges_) um. So lerne ich:
+
+- Echten Code in **VS Code** zu schreiben und zu testen
+- Mit KI als Tutor und Impulsgeber zu arbeiten
+- Git & GitHub für die Dokumentation meines Lernfortschritts zu nutzen
 
 ---
 
@@ -27,14 +28,15 @@ Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausfor
 
 ## 🛠️ Verwendete Tools & Technologien
 
-* **Lernplattform:** SoloLearn
-* **KI-Assistent:** Google Gemini
-* **IDE:** Visual Studio Code
-* **Versionsverwaltung:** Git & GitHub
+- **Lernplattform:** SoloLearn
+- **KI-Assistent:** Google Gemini
+- **IDE:** Visual Studio Code
+- **Versionsverwaltung:** Git & GitHub
 
 ---
 
 ## 📂 Ordnerstruktur
+
 ```
 📂 Coden
  ├─ 📂 Eigene Projekte
@@ -62,3 +64,4 @@ Gemini nimmt die Lernziele von SoloLearn und wandelt sie in praktische Herausfor
                ├── 📂 Kapitel_8
                ├── 📂 Kapitel_9
                └── 📂 Kapitel_10
+```
